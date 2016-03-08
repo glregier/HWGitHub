@@ -12,5 +12,6 @@ package com.glr;
 public class HWGitHub {
 	public static void main(String[] args) {
 		System.out.println("Howdy");
+		System.out.println("World");
 	}
 }
